@@ -39,7 +39,6 @@ víctima, parámetros recibidos, user-agent y referer).
 
 ## Payload para DVWA (Ejercicio A.1, paso 3)
 
-
 En el módulo *XSS (Reflected)*, nivel **Low**, ingresar:
 
 ```html

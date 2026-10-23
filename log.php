@@ -15,7 +15,7 @@
  */
 
 // Permite que una página de otro origen (DVWA) lea la respuesta con fetch/XHR.
-// Para el beacon de <img> no hace falta, pero sirve para variantes con fetch.
+// Para el beacon (rastreo) de <img> no hace falta, pero sirve para variantes con fetch.
 header('Access-Control-Allow-Origin: *');
 
 // Respondemos un GIF transparente de 1x1 para que la etiqueta <img> de la

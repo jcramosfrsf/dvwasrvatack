@@ -17,4 +17,4 @@ if (!is_file($log) || filesize($log) === 0) {
 
 echo "== Datos capturados por log.php ==\n\n";
 echo file_get_contents($log);
-echo "\nPara la próxima demostración: borrá registro.log (o vacialo) y recargá.\n";
+echo "\nPara la próxima demostración: borrar registro.log (o vaciarlo) y recargar.\n";
